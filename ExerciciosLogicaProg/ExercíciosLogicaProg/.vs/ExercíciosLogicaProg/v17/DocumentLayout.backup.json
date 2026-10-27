@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\SN1073007\\Documents\\GuilhermeCsharp\\ExerciciosLogicaProg\\Exerc\u00EDciosLogicaProg\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86F22791-8B57-4C01-8FC2-3C44374F5546}|Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg.csproj|c:\\users\\sn1073007\\documents\\guilhermecsharp\\exercicioslogicaprog\\exerc\u00EDcioslogicaprog\\exerc\u00EDcioslogicaprog\\exerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F22791-8B57-4C01-8FC2-3C44374F5546}|Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg.csproj|solutionrelative:exerc\u00EDcioslogicaprog\\exerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86F22791-8B57-4C01-8FC2-3C44374F5546}|Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg.csproj|c:\\users\\sn1073007\\documents\\guilhermecsharp\\exercicioslogicaprog\\exerc\u00EDcioslogicaprog\\exerc\u00EDcioslogicaprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86F22791-8B57-4C01-8FC2-3C44374F5546}|Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg.csproj|solutionrelative:exerc\u00EDcioslogicaprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "exerc.cs",
+              "DocumentMoniker": "C:\\Users\\SN1073007\\Documents\\GuilhermeCsharp\\ExerciciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg\\exerc.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDciosLogicaProg\\exerc.cs",
+              "ToolTip": "C:\\Users\\SN1073007\\Documents\\GuilhermeCsharp\\ExerciciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg\\exerc.cs",
+              "RelativeToolTip": "Exerc\u00EDciosLogicaProg\\exerc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T16:35:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SN1073007\\Documents\\GuilhermeCsharp\\ExerciciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Program.cs",
               "RelativeDocumentMoniker": "Exerc\u00EDciosLogicaProg\\Program.cs",
               "ToolTip": "C:\\Users\\SN1073007\\Documents\\GuilhermeCsharp\\ExerciciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Exerc\u00EDciosLogicaProg\\Program.cs",
               "RelativeToolTip": "Exerc\u00EDciosLogicaProg\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T19:54:03.084Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

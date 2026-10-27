@@ -1,0 +1,5 @@
+C:\Users\SN1073007\Documents\GuilhermeCsharp\ExerciciosLogicaProg\ExercíciosLogicaProg\ExercíciosLogicaProg\obj\Debug\net8.0\ExercíciosLogicaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN1073007\Documents\GuilhermeCsharp\ExerciciosLogicaProg\ExercíciosLogicaProg\ExercíciosLogicaProg\obj\Debug\net8.0\ExercíciosLogicaProg.AssemblyInfoInputs.cache
+C:\Users\SN1073007\Documents\GuilhermeCsharp\ExerciciosLogicaProg\ExercíciosLogicaProg\ExercíciosLogicaProg\obj\Debug\net8.0\ExercíciosLogicaProg.AssemblyInfo.cs
+C:\Users\SN1073007\Documents\GuilhermeCsharp\ExerciciosLogicaProg\ExercíciosLogicaProg\ExercíciosLogicaProg\obj\Debug\net8.0\ExercíciosLogicaProg.csproj.CoreCompileInputs.cache
+C:\Users\SN1073007\Documents\GuilhermeCsharp\ExerciciosLogicaProg\ExercíciosLogicaProg\ExercíciosLogicaProg\obj\Debug\net8.0\ExercíciosLogicaProg.sourcelink.json
